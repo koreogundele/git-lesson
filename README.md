@@ -23,3 +23,6 @@ To switch to an existing branch, use
 To list all branches, use
 
 'git branch'
+
+To submit your feature to be incorporated to the main branch, you should submit a `Pull Request`. 
+The repository maintainers will review your pull request before accepting your changes.
